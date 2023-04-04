@@ -6,6 +6,9 @@ Tenho paixão por tecnologia e sou iniciante em programação, desenvolvendo pro
 ### 🔹Detalhes                                                                                                              
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDias&show_icons=true&bg_color=00000000)     
 
+## 🔹Projeto
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasDias&repo=Casluud.githuh.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔹Linguagens utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
