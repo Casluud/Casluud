@@ -1,7 +1,7 @@
 ## Olá 👋
 ### 🔹Sobre mim:
 Olá! Me chamo Lucas, estou começando na área de tecnologia. Tenho 18 anos e moro em São Paulo-SP, atualmente estou cursando Análise e desenvolvimento de sistemas e estou começando na programação com foco em front-end.
-Aprimorando meus conhecimentos desenvolvendo projetos pessoais para me desenvolver em Js,React, HTML, CSS e talvez Python.
+Aprimorando meus conhecimentos desenvolvendo projetos pessoais para me desenvolver em Js, React, HTML, CSS e talvez Python.
 
 ### 🔹Detalhes                                                                                                              
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDias&show_icons=true&bg_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDias&layout=compact&langs_count=16&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
